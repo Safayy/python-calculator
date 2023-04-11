@@ -1,1 +1,4 @@
-# python-calculator
+# Calculator
+Tools
+- python
+- pyqt
